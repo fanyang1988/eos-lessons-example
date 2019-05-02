@@ -1,0 +1,16 @@
+{
+   "cmake.buildDirectory": "/home/fy/lesson/contracts/helloeos/build",
+   "cmake.variables": {
+      "CMAKE_TOOLCHAIN_FILE":"/usr/local/eosio.cdt/lib/cmake/eosio.cdt/EosioWasmToolchain.cmake"
+   },
+   "files.associations": {
+      "cstdlib": "cpp",
+      "typeinfo": "cpp"
+   },
+   "cmake.cmakeAPI": "File API",
+   "cmake.generator": "Unix Makefiles",
+   "C_Cpp.intelliSenseEngine": "Tag Parser",
+   "C_Cpp.autocomplete": "Default",
+   "C_Cpp.intelliSenseEngineFallback": "Enabled",
+   "C_Cpp.default.intelliSenseMode": "clang-x64"
+}

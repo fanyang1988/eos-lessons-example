@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "name": "Debug",
+      "buildType": "Debug",
+      "toolchain":"/usr/local/eosio.cdt/lib/cmake/eosio.cdt/EosioWasmToolchain.cmake"
+    },
+    {
+      "name": "Release",
+      "buildType": "Release",
+      "toolchain":"/usr/local/eosio.cdt/lib/cmake/eosio.cdt/EosioWasmToolchain.cmake"
+    },
+    {
+      "name": "RelWithDebInfo",
+      "buildType": "RelWithDebInfo",
+      "toolchain":"/usr/local/eosio.cdt/lib/cmake/eosio.cdt/EosioWasmToolchain.cmake"
+    },
+    {
+      "name": "MinSizeRel",
+      "buildType": "MinSizeRel",
+      "toolchain":"/usr/local/eosio.cdt/lib/cmake/eosio.cdt/EosioWasmToolchain.cmake"
+    }
+  ]
+}
