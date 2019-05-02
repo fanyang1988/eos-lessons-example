@@ -1,0 +1,3 @@
+[submodule "scripts/bios"]
+	path = scripts/bios
+	url = https://github.com/fanyang1988/eos-testnet-bios-script.git
