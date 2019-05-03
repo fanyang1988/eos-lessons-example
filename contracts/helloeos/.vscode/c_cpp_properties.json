@@ -2,7 +2,7 @@
     "configurations": [
         {
             "name": "Linux",
-            "includePath": [
+            "includePath": [ 
                 "${workspaceFolder}/**",
                 "/usr/local/eosio.cdt/include/",
                 "/usr/local/eosio.cdt/include/libc",
@@ -11,8 +11,7 @@
             "defines": [],
             "cStandard": "c11",
             "cppStandard": "c++17",
-            "intelliSenseMode": "clang-x64",
-            "configurationProvider": "go2sh.cmake-integration"
+            "intelliSenseMode": "clang-x64"
         }
     ],
     "version": 4

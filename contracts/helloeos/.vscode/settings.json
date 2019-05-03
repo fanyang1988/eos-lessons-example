@@ -1,5 +1,5 @@
 {
-   "cmake.buildDirectory": "/home/fy/lesson/contracts/helloeos/build",
+   "cmake.buildDirectory": "/home/fy/lesson/eos-lessons-example/contracts/helloeos/build",
    "cmake.variables": {
       "CMAKE_TOOLCHAIN_FILE":"/usr/local/eosio.cdt/lib/cmake/eosio.cdt/EosioWasmToolchain.cmake"
    },
@@ -12,5 +12,7 @@
    "C_Cpp.intelliSenseEngine": "Tag Parser",
    "C_Cpp.autocomplete": "Default",
    "C_Cpp.intelliSenseEngineFallback": "Enabled",
-   "C_Cpp.default.intelliSenseMode": "clang-x64"
+   "C_Cpp.default.intelliSenseMode": "clang-x64",
+   "C_Cpp.default.cppStandard": "c++17",
+   "C_Cpp.default.cStandard": "c11"
 }
